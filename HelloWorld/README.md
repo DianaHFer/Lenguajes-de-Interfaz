@@ -3,3 +3,5 @@
 
 
 # Docker con nueva imagen a 64bits.
+
+![](Lenguajes-de-Interfaz/Images/P1.png)
